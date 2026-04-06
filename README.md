@@ -1,2 +1,0 @@
-# bess-app
-BESS
